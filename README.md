@@ -22,7 +22,6 @@ VITE_URL=http://localhost:4000
 
 ```env
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
-DB_NAME=your-database-name
 ```
 
 > Replace `<username>`, `<password>`, and `<dbname>` with your actual MongoDB credentials and database name.
